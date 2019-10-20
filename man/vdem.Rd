@@ -15,6 +15,9 @@ data(vdem)
 The full cross-section panel data: Country-Year: V-Dem Full+Others
 All 450+ V-Dem indicators and indices + 59 other indicators from other data sources.
 }
+\details{
+See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
+}
 \examples{
 data(vdem)
 

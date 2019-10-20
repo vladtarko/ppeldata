@@ -2,6 +2,8 @@
 #'
 #' The full cross-section standard panel data.
 #'
+#' See the codebook here: \href{https://qog.pol.gu.se/data/datadownloads/qogstandarddata}.
+#'
 #' @docType data
 #'
 #' @usage data(qog)
@@ -24,6 +26,8 @@
 #'
 #' The full cross-section panel data: Country-Year: V-Dem Full+Others
 #' All 450+ V-Dem indicators and indices + 59 other indicators from other data sources.
+#'
+#' See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
 #'
 #' @docType data
 #'
@@ -130,6 +134,8 @@
 #' "Growth of Labor Productivity per hour worked, percent change"
 #' "Growth of GDP per capita, percent change"
 #'
+#' See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
+#'
 #' @docType data
 #'
 #' @usage
@@ -148,7 +154,7 @@
 #'
 #' Cross-country panel data (1920-2018).
 #'
-#' See
+#' See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
 #'
 #' @docType data
 #'

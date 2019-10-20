@@ -14,6 +14,9 @@ data(qog)
 \description{
 The full cross-section standard panel data.
 }
+\details{
+See the codebook here: \href{https://qog.pol.gu.se/data/datadownloads/qogstandarddata}.
+}
 \examples{
 data(qog)
 

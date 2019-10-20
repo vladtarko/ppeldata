@@ -30,6 +30,8 @@ Cross-country panel data (1950-2019) on:
 "Growth of Labor Productivity per person employed, percent change"
 "Growth of Labor Productivity per hour worked, percent change"
 "Growth of GDP per capita, percent change"
+
+See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
 }
 \examples{
 data(ted)

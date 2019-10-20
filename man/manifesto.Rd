@@ -15,7 +15,7 @@ data(manifesto)
 Cross-country panel data (1920-2018).
 }
 \details{
-See
+See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
 }
 \examples{
 data(manifesto)
