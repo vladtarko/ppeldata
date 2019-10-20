@@ -4,13 +4,13 @@ library(varsExplore)
 
 # qog <- read_dta("C:/Users/vladtarko/Dropbox/public/databases/Quality of Government Institute/2019/qog_std_ts_jan19.dta")
 
-# using the same variable names as VDEM
+# using the same variable names as VDEM and Fraser
 qog <- rename(qog,
-              "country"              = "cname",
-              "country_year"         = "cname_year",
-              "COWcode"              = "ccodecow",
-              "country_text_id"      = "ccodealp",
-              "country_text_id_year" = "ccodealp_year")
+              "country"      = "cname",
+              "country_year" = "cname_year",
+              "COWcode"      = "ccodecow",
+              "iso"          = "ccodealp",
+              "iso_year"     = "ccodealp_year")
 
 # list all countries with time periods in their names
 qog %>% filter(str_detect(country, "\\(")) %>% pull(country) %>% unique()
