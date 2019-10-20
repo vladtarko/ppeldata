@@ -143,3 +143,39 @@
 #' data(ted)
 #'
 "ted"
+
+#' Manifesto Project Main Dataset of Party Preferences
+#'
+#' Cross-country panel data (1920-2018).
+#'
+#' See
+#'
+#' @docType data
+#'
+#' @usage
+#'    data(manifesto)
+#'
+#' @keywords datasets
+#'
+#' @references
+#'  Volkens, Andrea / Krause, Werner / Lehmann, Pola / Matthieß, Theres / Merz,
+#'  Nicolas / Regel, Sven / Weßels, Bernhard(2019):
+#'  The Manifesto Data Collection. Manifesto Project (MRG / CMP / MARPOR). Version 2019a.
+#'  Berlin: Wissenschaftszentrum Berlin für Sozialforschung (WZB).
+#'  \href{https://doi.org/10.25522/manifesto.mpds.2019a}
+#'
+#'  Budge, Ian / Klingemann, Hans-Dieter / Volkens, Andrea / Bara, Judith with Tanenbaum,
+#'  Eric / Fording, Richard C. / Hearl, Derek J. / Kim, Hee Min / McDonald, Michael / Mendez,
+#'  Silvia (2001): Mapping Policy Preferences. Estimates for Parties, Electors, and Governments
+#'  1945-1998. Oxford: Oxford University Press.
+#'
+#'  Klingemann, Hans-Dieter / Volkens, Andrea / Bara, Judith / Budge, Ian / McDonald, Michael (2006):
+#'  Mapping Policy Preferences II. Estimates for Parties, Electors, and Governments in Eastern Europe,
+#'  the European Union and the OECD, 1990-2003. Oxford: Oxford University Press.
+#'
+#' @source \href{https://manifesto-project.wzb.eu/datasets}{Manifesto Project}
+#'
+#' @examples
+#' data(manifesto)
+#'
+"manifesto"

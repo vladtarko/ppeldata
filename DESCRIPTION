@@ -7,8 +7,9 @@ Maintainer: Vlad Tarko <vladtarko@gmail.com>
 Description: This package includes the following datasets: Quality of Government Institute full panel 
     data (2019), Varieties of Democracy full version 9 dataset (2019), Ruger and Sorens Database of 
     State and Local Public Policies and Policy Ideology Indices (2018), Fraser Institute Freedom of 
-    the World (2015), Total Economy Database (2019), 
-    Comparative Constitutions Project , Maddison Project, , 
+    the World (2015), Total Economy Database (2019), Manifesto Project (2019) of political parties 
+    policy positions, 
+    Comparative Constitutions Project , 
 License: MIT
 Encoding: UTF-8
 LazyData: true
