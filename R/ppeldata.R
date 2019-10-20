@@ -53,3 +53,61 @@
 #'
 "vdem"
 
+#' United States State Policies
+#'
+#' The Ruger and Sorens Database of State and Local Public Policies and Policy Ideology Indices (2018)
+#'
+#' The `statepolicy_meta` contains the variable descriptions and original sources.
+#' The `statepolicy` constains the data.
+#'
+#' @docType data
+#'
+#' @usage
+#'    data(statepolicy)
+#'    data(statepolicy_meta)
+#'
+#' @keywords datasets
+#'
+#' @references
+#' Jason Sorens, Fait Muedini and William P. Ruger. 2008. "U.S. State and Local Public Policies in 2006: A New Database." _State Politics and Policy Quarterly_
+#' vol 8, no 3, pp 309-326.
+#'
+#' @source \href{http://www.statepolicyindex.com/data/}{State Policy Database}
+#'
+#' @examples
+#' data(statepolicy)
+#' data(statepolicy_meta)
+#'
+"statepolicy"
+
+#' Fraser Economic Freedom of the World
+#'
+#' The components of the Fraser index of Economic Freedom.
+#'
+#' The following variables are the five aggregated subcomponents:
+#' Size_of_Government, Property_Rights, Sound_Money, Trade, Regulation.
+#'
+#' The variables range from 0 to 10, with 10 describing highest economic freedom. E.g.
+#' if Size_of_Government is closer to 10 it means the government involvement in the economy
+#' is smaller; if Regulation is closer to 10 it means there are fewer regulations.
+#'
+#' The `statepolicy_meta` contains the variable descriptions and original sources.
+#' The `statepolicy` constains the data.
+#'
+#' @docType data
+#'
+#' @usage
+#'    data(fraser)
+#'
+#' @keywords datasets
+#'
+#' @references
+#' Jason Sorens, Fait Muedini and William P. Ruger. 2008. "U.S. State and Local Public Policies in 2006: A New Database." _State Politics and Policy Quarterly_
+#' vol 8, no 3, pp 309-326.
+#'
+#' @source \href{http://www.statepolicyindex.com/data/}{State Policy Database}
+#'
+#' @examples
+#' data(fraser)
+#'
+"fraser"
