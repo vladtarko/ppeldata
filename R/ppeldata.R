@@ -91,9 +91,6 @@
 #' if Size_of_Government is closer to 10 it means the government involvement in the economy
 #' is smaller; if Regulation is closer to 10 it means there are fewer regulations.
 #'
-#' The `statepolicy_meta` contains the variable descriptions and original sources.
-#' The `statepolicy` constains the data.
-#'
 #' @docType data
 #'
 #' @usage
@@ -112,3 +109,37 @@
 #' data(fraser)
 #'
 "fraser"
+
+#' Total Economy Database
+#'
+#' Cross-country panel data (1950-2019) on:
+#'
+#' "Total GDP, in millions of 2018 US$"
+#' "Persons employed (thousands)"
+#' "Average annual hours worked per worker"
+#' "Total annual hours worked (millions)"
+#' "Midyear population (thousands)"
+#' "Labor productivity per person employed in 2018 US$"
+#' "Labor productivity per hour worked in 2018 US$"
+#' "GDP per capita in 2018 US$"
+#' "Growth of GDP, percent change"
+#' "Growth of employment, percent change"
+#' "Growth of total hours worked, percent change"
+#' "Growth of population, percent change"
+#' "Growth of Labor Productivity per person employed, percent change"
+#' "Growth of Labor Productivity per hour worked, percent change"
+#' "Growth of GDP per capita, percent change"
+#'
+#' @docType data
+#'
+#' @usage
+#'    data(ted)
+#'
+#' @keywords datasets
+#'
+#' @source \href{https://www.conference-board.org/data/economydatabase/}{Total Economy}
+#'
+#' @examples
+#' data(ted)
+#'
+"ted"

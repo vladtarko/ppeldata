@@ -21,9 +21,6 @@ Size_of_Government, Property_Rights, Sound_Money, Trade, Regulation.
 The variables range from 0 to 10, with 10 describing highest economic freedom. E.g.
 if Size_of_Government is closer to 10 it means the government involvement in the economy
 is smaller; if Regulation is closer to 10 it means there are fewer regulations.
-
-The `statepolicy_meta` contains the variable descriptions and original sources.
-The `statepolicy` constains the data.
 }
 \examples{
 data(fraser)
