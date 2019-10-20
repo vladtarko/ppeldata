@@ -7,20 +7,37 @@
 \format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 15403 rows and 2199 columns.}
 \source{
 \href{https://qog.pol.gu.se/data/datadownloads/qogstandarddata}{Quality of Government Institute}
+
+\href{http://www.statepolicyindex.com/data/}{State Policy Database}
 }
 \usage{
 data(qog)
+
+data(statepolicy)
+   data(statepolicy_meta)
 }
 \description{
 The full cross-section standard panel data.
+
+The Ruger and Sorens Database of State and Local Public Policies and Policy Ideology Indices (2018)
+}
+\details{
+The `statepolicy_meta` contains the variable descriptions and original sources.
+The `statepolicy` constains the data.
 }
 \examples{
 data(qog)
+
+data(statepolicy)
+data(statepolicy_meta)
 
 }
 \references{
 Teorell, Jan et al. 2018. The Quality of Government Standard Dataset,
    Version Jan18. University of Gothenburg: The Quality of Government Institute.
 (\href{https://qog.pol.gu.se/data/datadownloads/qogstandarddata}{Quality of Government Institute})
+
+Jason Sorens, Fait Muedini and William P. Ruger. 2008. "U.S. State and Local Public Policies in 2006: A New Database." _State Politics and Policy Quarterly_
+vol 8, no 3, pp 309-326.
 }
 \keyword{datasets}
