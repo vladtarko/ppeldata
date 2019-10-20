@@ -185,3 +185,41 @@
 #' data(manifesto)
 #'
 "manifesto"
+
+
+#' Correlates of State Policy, version 2.1
+#'
+#' Website description:
+#'
+#' > The Correlates of State Policy Project includes more than nine-hundred variables,
+#' with observations across the U.S. 50 states and time (1900 – 2016). These variables
+#' represent policy outputs or political, social, or economic factors that may influence
+#' policy differences across the states. The codebook includes the variable name, a short
+#' description of the variable, the variable time frame, a longer description of the variable,
+#' and the variable source(s) and notes.
+#'
+#' See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
+#'
+#' @docType data
+#'
+#' @usage
+#'    data(csp)
+#'
+#' @keywords datasets
+#'
+#' @references
+#'     Boehmke, Frederick J., and Paul Skinner. 2012. "State Policy Innovativeness Revisited."
+#'     _State Politics and Policy Quarterly_ 12(3):303-29.
+#'
+#'     Caughey, Devin, and Christopher Warshaw. 2015. "The Dynamics of State Policy Liberalism, 1936–2014."
+#'     _American Journal of Political Science_ 60 (4): 899–913.
+#'
+#'     Jordan, Marty P. and Matt Grossmann. 2017. The Correlates of State Policy Project v.2.1.
+#'     East Lansing, MI: Institute for Public Policy and Social Research (IPPSR).
+#'
+#' @source \href{http://ippsr.msu.edu/public-policy/correlates-state-policy}{Correlates of State Policy}
+#'
+#' @examples
+#' data(csp)
+#'
+"csp"
