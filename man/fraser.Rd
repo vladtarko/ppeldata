@@ -6,7 +6,7 @@
 \title{Fraser Economic Freedom of the World}
 \format{An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 3498 rows and 61 columns.}
 \source{
-\href{http://www.statepolicyindex.com/data/}{State Policy Database}
+\href{https://www.fraserinstitute.org/economic-freedom}{Fraser}
 }
 \usage{
 data(fraser)
@@ -30,7 +30,7 @@ data(fraser)
 
 }
 \references{
-Jason Sorens, Fait Muedini and William P. Ruger. 2008. "U.S. State and Local Public Policies in 2006: A New Database." _State Politics and Policy Quarterly_
-vol 8, no 3, pp 309-326.
+Gwartney, James D., Robert Lawson, and Joshua Hall. 2017. _Economic Freedom of the World 2017 Annual Report_.
+Vancouver: The Fraser Institute.
 }
 \keyword{datasets}

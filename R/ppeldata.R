@@ -102,10 +102,11 @@
 #' @keywords datasets
 #'
 #' @references
-#' Jason Sorens, Fait Muedini and William P. Ruger. 2008. "U.S. State and Local Public Policies in 2006: A New Database." _State Politics and Policy Quarterly_
-#' vol 8, no 3, pp 309-326.
+#' Gwartney, James D., Robert Lawson, and Joshua Hall. 2017. _Economic Freedom of the World 2017 Annual Report_.
+#' Vancouver: The Fraser Institute.
+#  \href{https://www.fraserinstitute.org/economic-freedom/dataset}
 #'
-#' @source \href{http://www.statepolicyindex.com/data/}{State Policy Database}
+#' @source \href{https://www.fraserinstitute.org/economic-freedom}{Fraser}
 #'
 #' @examples
 #' data(fraser)
