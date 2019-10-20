@@ -4,7 +4,7 @@
 \name{qog}
 \alias{qog}
 \title{Quality of Government dataset}
-\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 15403 rows and 2199 columns.}
+\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 15403 rows and 2200 columns.}
 \source{
 \href{https://qog.pol.gu.se/data/datadownloads/qogstandarddata}{Quality of Government Institute}
 }
