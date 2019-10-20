@@ -1,0 +1,12 @@
+Package: ppeldata
+Type: Package
+Title: Datasets Useful for PPEL
+Version: 0.1.0
+Author: Vlad Tarko
+Maintainer: Vlad Tarko <vladtarko@gmail.com>
+Description: This package includes the following datasets: Quality of Government Institute panel data, 
+    Varieties of Democracy full dataset, Fraser Institute Freedom of the World, Comparative Constitutions
+    Project, Maddison Project, Total Economy Database, 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
