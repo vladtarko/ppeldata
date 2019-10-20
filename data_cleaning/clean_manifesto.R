@@ -7,3 +7,5 @@ manifesto <- manifesto %>%
   rename("ccode" = "country",
          "country" = "countryname") %>%
   select(country, ccode, year, everything())
+
+# save(manifesto, file="data/manifesto.rda")

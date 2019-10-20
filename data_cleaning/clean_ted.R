@@ -1,5 +1,7 @@
 library(tidyverse)
 
+# ted <- read_csv("C:/Users/vladtarko/Dropbox/public/databases/Total Economy Database/TED-2019-Output, Labor, and Labor Productivity, 1950-2019.csv")
+
 # adjustment of the data downloaded from TED
 
 # turn years columns into long format
