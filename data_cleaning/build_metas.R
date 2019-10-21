@@ -19,14 +19,18 @@ statepolicy_m <- statepolicy_meta %>%
   select(Variable, Description) %>%
   right_join(statepolicy_m, by = "Variable")
 
-all_meta <- rbind(
-  csp_meta,
+all_world_meta <- rbind(
   fraser_meta,
   manifesto_meta,
   qog_meta,
-  statepolicy_m,
   ted_meta,
   vdem_meta
 )
 
-save(all_meta, file="data/all_meta.rda")
+all_us_meta <- rbind(
+  csp_meta,
+  statepolicy_m
+)
+
+save(all_world_meta, file="data/all_world_meta.rda")
+save(all_us_meta, file="data/all_us_meta.rda")

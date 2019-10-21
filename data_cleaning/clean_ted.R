@@ -20,3 +20,9 @@ labels <- c(c("Region", "ISO", "Country Name", "Year"), labels)
 ted_wide <- sjlabelled::set_label(ted_wide, labels)
 
 ted_wide["na"] <- NULL
+
+ted_wide$year <- as.numeric(ted_wide$year)
+
+ted <- ted_wide
+
+# save(ted, file="data/ted.rda")
