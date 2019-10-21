@@ -2,7 +2,7 @@
 #'
 #' The full cross-section standard panel data.
 #'
-#' See the codebook here: \href{https://qog.pol.gu.se/data/datadownloads/qogstandarddata}.
+#' See the codebook here: https://qog.pol.gu.se/data/datadownloads/qogstandarddata.
 #'
 #' @docType data
 #'
@@ -27,7 +27,7 @@
 #' The full cross-section panel data: Country-Year: V-Dem Full+Others
 #' All 450+ V-Dem indicators and indices + 59 other indicators from other data sources.
 #'
-#' See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
+#' See the codebook here: https://github.com/vladtarko/ppeldata/tree/master/codebooks.
 #'
 #' @docType data
 #'
@@ -134,7 +134,7 @@
 #' "Growth of Labor Productivity per hour worked, percent change"
 #' "Growth of GDP per capita, percent change"
 #'
-#' See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
+#' See the codebook here: https://github.com/vladtarko/ppeldata/tree/master/codebooks.
 #'
 #' @docType data
 #'
@@ -154,7 +154,7 @@
 #'
 #' Cross-country panel data (1920-2018).
 #'
-#' See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
+#' See the codebook here: https://github.com/vladtarko/ppeldata/tree/master/codebooks.
 #'
 #' @docType data
 #'
@@ -189,16 +189,14 @@
 
 #' Correlates of State Policy, version 2.1
 #'
-#' Website description:
-#'
-#' > The Correlates of State Policy Project includes more than nine-hundred variables,
+#' Website description: The Correlates of State Policy Project includes more than nine-hundred variables,
 #' with observations across the U.S. 50 states and time (1900 – 2016). These variables
 #' represent policy outputs or political, social, or economic factors that may influence
 #' policy differences across the states. The codebook includes the variable name, a short
 #' description of the variable, the variable time frame, a longer description of the variable,
 #' and the variable source(s) and notes.
 #'
-#' See the codebook here: \href{https://github.com/vladtarko/ppeldata/tree/master/codebooks}.
+#' See the codebook here: https://github.com/vladtarko/ppeldata/tree/master/codebooks.
 #'
 #' @docType data
 #'
